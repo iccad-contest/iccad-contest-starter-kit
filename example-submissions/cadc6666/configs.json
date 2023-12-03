@@ -1,0 +1,5 @@
+// An example file
+{
+	"optimizer": "fmin_l_bfgs_b",
+	"random_state": 2022
+}
